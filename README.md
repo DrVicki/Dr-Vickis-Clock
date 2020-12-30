@@ -1,5 +1,7 @@
 # Dr-Vickis-Clock
-<h1>JavaScript30 Challenge</h1><br>
-<h2>Project 2 of 30 Built a HTML, CSS, and JS clock.</h2><br>
+![](https://github.com/DrVicki/Dr-Vickis-Clock/blob/main/images/Dr_Vickis_Clock.gif)
+<h2>JavaScript30 Project 2 of 30 </h2><br>
+<p>Built a HTML, CSS, and JS clock.</p>
+
 
 
